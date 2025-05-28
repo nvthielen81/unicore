@@ -1,0 +1,40 @@
+##############################################################################
+Disk folder info 
+Build : xxxxxxxx
+relase date xx/xx/xxxx
+##############################################################################
+
+Help 
+this folder contans the info and help aboud the system 
+and gide how to use the software 
+
+
+##############################################################################
+core.gw
+o/s Core system group workers fils 
+this folder contain all the system data files to run the os.
+
+##############################################################################
+iNet 
+this folder contains the network pstn/smtp data confurasion
+and the link up . 
+
+##############################################################################
+jar.rx
+this folder contants the software, thans runs on the os
+- gw.tar mail tekst sender / resiver
+- gtext.tar tekst editor 
+- cal.tar calulasion software
+- nmap network diskoverie map
+
+##############################################################################
+
+orl.tx 
+this folder is the database arc map
+rlt.tar te ragister t-links lanwhits data base. 
+
+##############################################################################
+kernel
+this foler is the master data, loader of the system frameworks
+
+##############################################################################
